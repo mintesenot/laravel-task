@@ -28,7 +28,7 @@ Welcome to my GitHub profile. I'm passionate about coding, technology, and conti
 - Frontend frameworks like React and Vue.js
 
 ## 📫 How to Reach Me
-- Email: [mintesenot@example.com](mailto:mintesenot@example.com)
+- Email: [mintesenotsisaye67@gmail.com](mailto:mintesenot@example.com)
 - LinkedIn: [Mintesenot's LinkedIn](https://www.linkedin.com/in/mintesenot)
 - Twitter: [@mintesenot](https://twitter.com/mintesenot)
 
